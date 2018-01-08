@@ -2,4 +2,4 @@ Tomasz Szymczyszyn
 Hobby: paraglinding swimming
 sex: mail
 Age: 34
-
+Weight: 78
